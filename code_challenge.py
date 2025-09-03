@@ -1,0 +1,1 @@
+print("\t\t\t\t*\n\t\t\t*\t\t*\n\t\t*\tCharles Jayson\t\t*\n\t*\t\tASEGURADO\t\t\t*\n\t\t*\t\t\t\t*\n\t\t\t*\t\t*\n\t\t\t\t*")
